@@ -1,0 +1,26 @@
+@import '../styles/global.scss';
+
+.container {
+    max-width: $site-width;
+    min-height: 140px;
+    margin: 0 auto;
+    padding-top: 30px;
+    margin-top: 50px;
+
+    
+.row {
+    text-align: center;
+    padding: 5px;
+}
+
+.button {
+    background-color: $color-pallete-1;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    height: 30px;
+    }
+}
